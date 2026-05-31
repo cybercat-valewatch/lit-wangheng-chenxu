@@ -18,4 +18,5 @@
 3. [《隔墙同择》英文版](./works/interwall-choice-en.md) ✅
 4. [《无音之响》中文完整版](./works/soundless-echo-zh.md) ✅
 5. [《无音之响》深度解析评论](./works/soundless-echo-review.md) ✅
-6. 《游乐园》连载文稿 待上传
+6. [《无音之响》英文版](./works/soundless-echo-en.md) ✅
+7. 《游乐园》连载文稿 待上传
