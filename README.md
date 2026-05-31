@@ -16,6 +16,6 @@
 1. [《隔墙同择》中文完整版](./works/interwall-choice-zh.md) ✅
 2. [《隔墙同择》深度解读评论](./works/interwall-choice-review.md) ✅
 3. [《隔墙同择》英文版](./works/interwall-choice-en.md) ✅
-4. 《无音之响》正文 待上传
+4. [《无音之响》中文完整版](./works/soundless-echo-zh.md) ✅
 5. 《游乐园》连载文稿 待上传
 
